@@ -6,13 +6,14 @@ h1 {
     font-size: 70px;
     font-weight: bold;
 }
+
 .MainMenu{
 color:white;
 background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 text-align: center;
 }
 
-.btn_nav{
+.btn-nav{
   font-size: 18px;
   color: white;
 }
@@ -36,7 +37,7 @@ text-align: center;
 h1, h2, h3 {
     font-weight: bold;
 }
-footert{
+.footer{
   background-color: dimgray;
   font-size: 11px;
   color: white;
